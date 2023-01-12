@@ -22,14 +22,14 @@
 
 * Tier 1 (Presentation): Website des Spieles mit UI für Spieler*innen
 * Tier 2 (Webserver): Eingbaben des Benutzers entgegenehmen und prüfen
-* Tier 3 (Application Server):
+* Tier 3 (Application Server): Verbindung zur Datenbank
 * Tier 4 (Dataserver): Speichern von Benutzerdaten und deren Highscores
 
 # 2 Technologie
 
-* Tier 1 (Presentation): 
-* Tier 2 (Webserver)
-* Tier 3 (Application Server) 
+* Tier 1 (Presentation):HTML-in-JavaScript (JSX) 
+* Tier 2 (Webserver): JavaScript, ChakraUI
+* Tier 3 (Application Server)JavaScript 
 * Tier 4 (Dataserver): FireBase
 
 # 3 Datenbank
