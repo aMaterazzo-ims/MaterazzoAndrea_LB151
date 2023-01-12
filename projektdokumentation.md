@@ -4,7 +4,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|  12.01.2023     | 0.0.1   |  Ich habe die ersten fünf Punkte der Dokumentation ausgefüllt |
+|  12.01.2023     | 0.0.1   |  Ich habe die Punkte 1 bis 5 der Dokumentation ausgefüllt |
 |       | 0.0.2   |                                                              |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
