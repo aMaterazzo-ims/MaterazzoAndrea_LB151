@@ -54,11 +54,11 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 | 8  |    Muss      |Als Kandidat*in* möchte ich in der Lage sein, meine Lebenspunkte zu jeder Zeit sehen zu können, damit ich weiss wie viel Leben ich noch habe.      |                                    |
 | 9  |    Muss      |Als Kandidat*in* möchte ich wissen, ob meine gewählte Antwort oder richtig oder falsch war, damit ich aus meinen Fehlern lernen kann und die nächste Antwort sorgfältiger beantworten kann.      |                                    |
 | 10 |    Muss      |Als Kandidat*in* möchte ich in der Lage sein, in der Highscore-Liste folgende Daten zu sehen : Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und anzahL Spielrunden, damit ich mich mit anderen vergleichen kann und wie viel bis zum nächsten Rang fehlt.     |                                    |
-| 11 |    Muss      |      |                                    |
-| 12 |    Muss      |      |                                    |
-| 13 |    Muss      |      |                                    |
-| 14 |    Muss      |      |                                    |
-| 15 |    Muss      |      |                                    |
+| 11 |    Muss      |Als Kandidat*in* möchte, dass die Highscore-Liste von Bester nach schlechtester sortiert ist, damit ich auf einen Blick sehe, welcher Spieler der beste ist ohne gross danach suchen zu müssen     |                                    |
+| 12 |    Muss      | Als Kandidat*in* möchte ich das jedes Wort und jeder Satz mir nur genau ein Mal gestellt wird, damit das Spiel nicht langweilig wird      |                                    |
+| 13 |    Muss      |Als Kandidat*in* möchte ich in der Lage sein, das Spiel zu jedem Zeitpunkt zu unterbrechen und will das mein Gewinn übernommen wird und ich falls nötig in die Highscore-Liste eingetragen werde.       |                                    |
+| 14 |    Muss      |Als Kandidat*in* möchte ich, dass das Spiel mit genug Wörtern und Sätzen gespielt gefüllt wird, damit das Spiel nicht durchgespielt werden kann und so nicht langweilig wird.     |                                    |
+| 15 |    Muss      |Als Kandidat*in* möchte ich, dass meine Spielrunden gezählt werden, damit ich weiss wie viele Runden ich schon gespielt habe und weiss wann die Zeit gekommen ist das Spiel zu schliessen und wieder zur Realität zurückzukehren.      |                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
