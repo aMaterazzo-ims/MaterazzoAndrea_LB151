@@ -5,8 +5,8 @@
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |  12.01.2023     | 0.0.1   |  Ich habe die Punkte 1 bis 5 der Dokumentation ausgefüllt |
-|       | 0.0.2   |                                                              |
-|       | 0.0.3   |                                                              |
+| 26.01.2023      | 0.0.2   |   Mock-Up fertiggestellt, Tracer Bullet erstellt                                                           |
+|  05.02.2023     | 0.0.3   |  Prototypen erstellt, Technologien installiert                                                           |
 |       | 0.0.4   |                                                              |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
@@ -28,7 +28,7 @@
 # 2 Technologie
 
 * Tier 1 (Presentation):HTML-in-JavaScript (JSX) 
-* Tier 2 (Webserver): JavaScript, ChakraUI
+* Tier 2 (Webserver): JavaScript, Tailwind
 * Tier 3 (Application Server)JavaScript 
 * Tier 4 (Dataserver): FireBase
 
@@ -59,7 +59,8 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 | 13 |    Muss      |Funktional|Als Kandidat*in* möchte ich in der Lage sein, das Spiel zu jedem Zeitpunkt zu unterbrechen und will das mein Gewinn übernommen wird und ich falls nötig in die Highscore-Liste eingetragen werde.                                    |
 | 14 |    Muss      |Qualität     |Als Kandidat*in* möchte ich, dass das Spiel mit genug Wörtern und Sätzen gespielt gefüllt wird, damit das Spiel nicht durchgespielt werden kann und so nicht langweilig wird.                                    |
 | 15 |    Muss      |Funktional      |Als Kandidat*in* möchte ich, dass meine Spielrunden gezählt werden, damit ich weiss wie viele Runden ich schon gespielt habe und weiss wann die Zeit gekommen ist das Spiel zu schliessen und wieder zur Realität zurückzukehren.                                    |
-| 16 |    Muss      |Rand      |Als ein Kandidat*in* möchte ich, dass einfache Formulareingaben, wie leere Textfelder etc., auf Client- und Serverseite geprüft werden, damit ich früh auf Fehler hingewiesen werde.                                    |
+| 16 |    Muss      |Rand      |Als ein Kandidat*in* möchte ich, dass einfache Formulareingaben, wie leere Textfelder etc., auf Client- und Serverseite geprüft werden, damit ich früh auf Fehler hingewiesen werde.  
+| 17 |    Kann      |Funktional      |Als ein Kandidat*in* möchte ich, dass ich mich Google Sign-In Anmelden kann, damit ich mir mein Passwort nicht merken muss.  |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
@@ -88,7 +89,8 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 
 # 5 Prototyp
 
-✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+✍️ ![Mockup_151](https://user-images.githubusercontent.com/111268969/220881718-d4af6fc0-c8cb-413a-8145-e7c5e6270c2c.jpg)
+
 
 # 6 Implementation
 
