@@ -44,11 +44,10 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                         |
 | ---| --------------- | ---- | ----------------------------------     |
-| 1  | Muss      |Funktional     |Als Administrator möchte ich in der Lage sein, mich mit einem Admin Login anzumelden, damit nur ich Wörter und Benutzer bearbeiten kann                               
+| 1  | Muss      |Funktional     |Als Administrator möchte ich in der Lage sein, mich mit einem Admin Login anzumelden, damit nur Daten bearbeiten könnte wenn ich wollen würde.
 | 2  |    Muss      |Funtional      |Als Administrator möchte ich in der Lage sein, Wörter und Sätze zu erstellen und zu bearbeiten, damit das Spiel spannend bleibt und so denn Spieler freude bereitet.
 | 3  |    Muss      |Funktional|Als Administrator möchte ich in der Lage sein, Kategorien anzulegen und jedes Wort bzw. jede Frage einer Kategorie zuordnen zu können, damit der Spieler eine Kategorie auwählen kann und so die von ihm gewünschten Wörter der Kategorie angezeigt gespielt werden können                                    
-| 4  |    Muss      |Funktional|Als Administrator möchte ich in der Lage sein, Highscore-Listen-Einträge zu berarbeiten, damit ich Einträge die ich als missbräuclich sehe, entfernen kann                                    |
-| 5  |    Muss      |Funktional     |Als Kandidat*in* möchte ich auf einem Webserver zu spielen, damit ich mich auch von anderen Geräten anmelden kann und dort weiter spielen kann.                                    |
+| 4  |    Muss      |Funktional|Als Administrator möchte ich in der Lage sein, Highscore-Listen-Einträge zu berarbeiten, damit ich Einträge die ich als missbräuclich sehe, entfernen kann                                    |                               |
 | 6  |    Muss      |Funktional|Als Kandidat*in* möchte ich in der Lage sein, meinen Namen anzugeben, damit, falls ich einen Highscore erreiche, dort mein Name steht                                        |
 | 7  |    Muss      |Funktional|Als Kandidat*in* möchte ich in der Lage sein, mein Kontostand zu jeder Zeit sehen zu können, damit ich weiss wie viel Guthaben ich auf meine Spielkonto besitze.                                    |
 | 8  |    Muss      |Funktional |Als Kandidat*in* möchte ich in der Lage sein, meine Lebenspunkte zu jeder Zeit sehen zu können, damit ich weiss wie viel Leben ich noch habe.                                    |
@@ -69,7 +68,7 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |Website geöffnet, unangemeldet|1. Falscher Admin-Benutzername und Passwort eingeben | Log-In wird verweigert|
+| 1.1  |Website geöffnet, unangemeldet|1. Richitge Admin-Email und Passwort eingeben | Log-In wird gewährt|
 | 2.1  |Website geöffnet, als Admin angemeldet|1. Auf "Wörter bearbeiten" drücken|Wörterliste erscheint und Wörter können bearbeitet werden und gelöscht werden|
 | 3.1  |Website geöffnet, als Admin angemeldet|1. Auf "Wörter bearbeiten" drücken|Wörterliste erscheint und den Wörtern und Sätzen können Kategorien zugetielt werden                   |
 | 3.2  |Website geöffnet, als Admin angemeldet|1. Auf "Kategorien erstellen" drücken|Kategorie kan erstellt werden und entweder neue Wörter oder bereits vorhandene Wörter können der Kategorie hinzugfügt werden|
@@ -112,29 +111,29 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 | ...  |           |                                           |
 
 # 8 Testprotokoll
-
+https://youtu.be/FDaIQOakGUI
 ✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |   07.03.2023    |          |        |
-| 2.1  |       07.03.2023  |          |        |
-| 3.1  |       07.03.2023  |          |        |
-| 4.1  |        07.03.2023 |          |        |
-| 5.1  |       07.03.2023  |          |        |
-| 6.1  |        07.03.2023 |          |        |
-| 7.1  |        07.03.2023 |          |        |
-| 8.1  |        07.03.2023 |          |        |
-| 9.1  |        07.03.2023 |          |        |
-| 10.1  |        07.03.2023 |          |        |
-| 11.1  |        07.03.2023 |          |        |
-| 12.1  |        07.03.2023 |          |        |
-| 13.1  |         07.03.2023|          |        |
-| 14.1  |        07.03.2023 |          |        |
-| 15.1  |         07.03.2023|          |        |
-| A.1  |         07.03.2023|          |        |
-| B.1  |        07.03.2023 |          |        |
-| C.1  |        07.03.2023 |          |        |
+| 1.1  |   07.03.2023    |          |    Andrea Materazzo    |
+| 2.1  |       07.03.2023  |          |  Andrea Materazzo        |
+| 3.1  |       07.03.2023  |          |   Andrea Materazzo       |
+| 4.1  |        07.03.2023 |          |   Andrea Materazzo       |
+| 5.1  |       07.03.2023  |          |   Andrea Materazzo       |
+| 6.1  |        07.03.2023 |          |   Andrea Materazzo       |
+| 7.1  |        07.03.2023 |          |   Andrea Materazzo       |
+| 8.1  |        07.03.2023 |          |   Andrea Materazzo       |
+| 9.1  |        07.03.2023 |          |   Andrea Materazzo       |
+| 10.1  |        07.03.2023 |          |    Andrea Materazzo      |
+| 11.1  |        07.03.2023 |          |    Andrea Materazzo      |
+| 12.1  |        07.03.2023 |          |    Andrea Materazzo      |
+| 13.1  |         07.03.2023|          |    Andrea Materazzo      |
+| 14.1  |        07.03.2023 |          |    Andrea Materazzo      |
+| 15.1  |         07.03.2023|          |     Andrea Materazzo     |
+| A.1  |         07.03.2023|          |     Andrea Materazzo     |
+| B.1  |        07.03.2023 |          |     Andrea Materazzo     |
+| C.1  |        07.03.2023 |          |    Andrea Materazzo      |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
