@@ -166,7 +166,7 @@ https://youtu.be/FDaIQOakGUI
 | B.1  |        07.03.2023 | OK |     Andrea Materazzo     |
 | C.1  |        07.03.2023 | OK |    Andrea Materazzo      |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+✍️ Ich habe anfangs das Projekt zu locker genommen und die ersten Wochen nichts ausser der Dokumentation gemacht. Aus diesem Grund konnte ich am Ende einige Features nicht implementieren da ich zu spät angefangen habe und die Zeit dann nicht mehr gereicht hat. Zu den Features Gehören die Funktion Vokal kaufen, Leben speichern, Anzahl Runden, das Punkte erhält, die Admin Page und die High-Score-Liste. Nächstes Mal muss ich umbedingt früeher damit anfangen.
 
 # 9 `README.md`
 
@@ -174,6 +174,6 @@ https://youtu.be/FDaIQOakGUI
 
 # 10 Allgemeines
 
-- [ ] Ich habe die Rechtschreibung überprüft
-- [ ] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
-- [ ] Ich habe alle mit ✍️ markierten Teile ersetzt
+- [X ] Ich habe die Rechtschreibung überprüft
+- [ X] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
+- [X ] Ich habe alle mit ✍️ markierten Teile ersetzt
