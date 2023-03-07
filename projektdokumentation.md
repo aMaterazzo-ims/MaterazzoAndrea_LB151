@@ -9,8 +9,6 @@
 |  05.02.2023     | 0.0.3   |  Prototypen erstellt, Technologien installiert                                                           |
 |23.02.2023   | 0.0.4   |      Ich habe hauptsächlich programmiert Heute.                                                        |
 | 07.03.2023     | 1.0.0 |   Programm fertig gemacht undDokumentation fertiggestellt.                                                           |
-|       |         |                                                          |
-|            |         |                                                              |
 
 # 0 Ihr Projekt
 
@@ -74,7 +72,7 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 | 3.2  |Website geöffnet, als Admin angemeldet|1. Auf "Kategorien erstellen" drücken|Kategorie kan erstellt werden und entweder neue Wörter oder bereits vorhandene Wörter können der Kategorie hinzugfügt werden|
 | 4.1  |Website geöffnet, als Admin angemeldet|1. Highscore-Liste öffnen 2. Auf " Highscore-Liste bearbeiten" drücken| Einträge können bearbeitet oder gelöscht werden|
 | 5.1  |Website geöffnet|1.Spiel starten|Feld erscheint, wo der Name eingegeben werden kann|
-| 6.1  |Website geöffnet| 1. Spiel starten  2. Auf Neustarten drücken. |Spiel wird neugestartet|
+| 6.1  |Website geöffnet| 1. Spiel starten       2. Auf Neustarten drücken. |Spiel wird neugestartet|
 | 7.1  |Website geöffnet, Spiel gestartet|1. Anzahl Striche und Hinweise anschauen. 2. "b" raten | Es wird "b" geraten und ein Strich wird durch ein b ersetzt. |
 | 8.1  |Website geöffnet, Spiel gestartet|1. Anzahl Striche und Hinweise anschauen. 2. "ö" raten|Es wird ausgegeben das "ö" nicht in diesem Wort enthalten ist.                   |
 | 9.1  |Website geöffnet, Highscore-Liste geöffnet| 1. Highscore-Liste anschauen                                 | Highscore-Liste mit folgenden Daten wird angezeigt: Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und anzahl Spielrunden |
