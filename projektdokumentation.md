@@ -25,14 +25,14 @@
 
 # 2 Technologie
 
-* Tier 1 (Presentation):HTML-in-JavaScript (JSX) 
-* Tier 2 (Webserver): JavaScript, CSS
+* Tier 1 (Presentation):HTML, CSS, JavaScript
+* Tier 2 (Webserver): JavaScript
 * Tier 3 (Application Server)JavaScript 
 * Tier 4 (Dataserver): FireBase
 
 # 3 Datenbank
 
-Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitlich mit mySQL gearbeitet und möchte nun etwas neues ausprobieren.
+Die Adminanmeldedaten sind auf FireBase gesepeichert. Die Authentifizierung erfolgt über FireBase. Die Wörter sind in der .js-Datei gespeichert. Ich habe mehrheitlich mit mySQL gearbeitet und wollte nun etwas neues ausprobieren.
 
 # 4.1 User Stories
 
@@ -60,7 +60,8 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 | A |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, den ersten Hinweis erhalten, damit ich Hilfe erhalte um das Wort zu erraten.  |
 |B |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, den zweiten Hinweis erhalten, damit ich das Wort doch noch erraten kann.  |
 |C |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, dass ich die Lösung anzeigen kann, damit ich weiss was das Wort war, sollte ich es nicht erraten haben.  |
-|✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). ||||
+
+✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
 # 4.2 Testfälle
 
@@ -122,24 +123,24 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | Ja        |                                           |
-| 2    | Nein      |                                           |
-| 3    | Nein      |                                           |
-| 4    | Nein      |                                           |
-| 5    | Nein      |                                           |
-| 6    | Ja        |                                           |
-| 7    | Ja        |                                           |
-| 8    | Ja        |                                           |
-| 9    | Nein      |                                           |
-| 10   | Ja        |                                           |
-| 11   | Ja        |                                           |
-| 12   | Nein      |                                           |
-| 13   | Ja        |                                           |
-| 14   | Nein      |                                           |
-| 15   | Ja        |                                           |
-| A    | Ja        |                                           |
-| B    | Ja        |                                           |
-| C    | Ja        |                                           |
+| 1    | Ja        | www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/login.html#L35-L40                                         |
+| 2    | Nein      |    -                                       |
+| 3    | Nein      |     -                                      |
+| 4    | Nein      |   -                                         |
+| 5    | Nein      |   -                                         |
+| 6    | Ja        |   www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/index.html#L60                                         |
+| 7    | Ja        |   www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/index.html#L43-L53                                       |
+| 8    | Ja        |   www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/script.js#L117-L177                                         |
+| 9    | Nein      |   -                                         |
+| 10   | Ja        |www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/index.html#L50-L55                                          |
+| 11   | Ja        | www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/login.html#L35-L40                                           |
+| 12   | Nein      |                                            |
+| 13   | Ja        |www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/script.js#L23-L38                                           |
+| 14   | Nein      | -                                           |
+| 15   | Ja        | Sieht man wenn man die Website anschaut und die Linien die Anzahl Buchstaben representieren                                          |
+| A    | Ja        |www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/script.js#L44                                            |
+| B    | Ja        | www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/script.js#L47                                          |
+| C    | Ja        |www.github.com/aMaterazzo-ims/MaterazzoAndrea_LB151/blob/main/index.html#L57                                            |
 
 # 8 Testprotokoll
 https://youtu.be/FDaIQOakGUI
@@ -174,6 +175,6 @@ https://youtu.be/FDaIQOakGUI
 
 # 10 Allgemeines
 
-- [X ] Ich habe die Rechtschreibung überprüft
-- [ X] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
-- [X ] Ich habe alle mit ✍️ markierten Teile ersetzt
+- [Erledigt] Ich habe die Rechtschreibung überprüft
+- [Erledigt] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
+- [Erledigt] Ich habe alle mit ✍️ markierten Teile ersetzt
