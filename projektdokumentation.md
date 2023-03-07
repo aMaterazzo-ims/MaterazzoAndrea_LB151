@@ -7,8 +7,8 @@
 |  12.01.2023     | 0.0.1   |  Ich habe die Punkte 1 bis 5 der Dokumentation ausgefüllt |
 | 26.01.2023      | 0.0.2   |   Mock-Up fertiggestellt, Tracer Bullet erstellt                                                           |
 |  05.02.2023     | 0.0.3   |  Prototypen erstellt, Technologien installiert                                                           |
-|       | 0.0.4   |                                                              |
-|       | 0.0.5   |                                                              |
+|23.02.2023   | 0.0.4   |      Ich habe hauptsächlich programmiert Heute.                                                        |
+| 07.03.2023     | 0.0.5   |   Programm fertig gemacht undDokumentation fertiggestellt.                                                           |
 |       | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
 
@@ -28,13 +28,13 @@
 # 2 Technologie
 
 * Tier 1 (Presentation):HTML-in-JavaScript (JSX) 
-* Tier 2 (Webserver): JavaScript, Tailwind
+* Tier 2 (Webserver): JavaScript, CSS
 * Tier 3 (Application Server)JavaScript 
 * Tier 4 (Dataserver): FireBase
 
 # 3 Datenbank
 
-Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitlich mich mySQL gearbeitet und möchte nun etwas neues ausprobieren.
+Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitlich mit mySQL gearbeitet und möchte nun etwas neues ausprobieren.
 
 # 4.1 User Stories
 
@@ -60,8 +60,9 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 | 14 |    Muss      |Qualität     |Als Kandidat*in* möchte ich, dass das Spiel mit genug Wörtern und Sätzen gespielt gefüllt wird, damit das Spiel nicht durchgespielt werden kann und so nicht langweilig wird.                                    |
 | 15 |    Muss      |Funktional      |Als Kandidat*in* möchte ich, dass meine Spielrunden gezählt werden, damit ich weiss wie viele Runden ich schon gespielt habe und weiss wann die Zeit gekommen ist das Spiel zu schliessen und wieder zur Realität zurückzukehren.                                    |
 | 16 |    Muss      |Rand      |Als ein Kandidat*in* möchte ich, dass einfache Formulareingaben, wie leere Textfelder etc., auf Client- und Serverseite geprüft werden, damit ich früh auf Fehler hingewiesen werde.  
-| 17 |    Kann      |Funktional      |Als ein Kandidat*in* möchte ich, dass ich mich Google Sign-In Anmelden kann, damit ich mir mein Passwort nicht merken muss.  |
-
+| A |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, den ersten Hinweis erhalten, damit ich Hilfe erhalte um das Wort zu erraten.  |
+ |B |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, den zweiten Hinweis erhalten, damit ich das Wort doch noch erraten kann.  |
+  |C |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, dass ich die Lösung anzeigen kann, damit ich weiss was das Wort war, sollte ich es nicht erraten haben.  |
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
 # 4.2 Testfälle
@@ -84,6 +85,9 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 | 13.1  |Website geöffnet, angemeldet als Spieler, Spiel läuft|1. Spieler drückt auf Spiel beenden|Guthaben wird gespeichet und falls nötig ein eintrga in die Highscore-Liste eingetragen|
 | 14.1  |Website geöffnet, angemeldet als Spieler|1. Viele Runden werden gespielt| Kein Wort kam zwei Mal dran und es das Spiel wurde nicht durchgespielt, weil es nicht durchgespielt werden kann| 
 | 15.1  |Website geöffnet,angemeldet als Spieler, mehrere Runden schon gespielt| 1.Spielseite anschauen |Auf der Spielseite werden die anazhal Runden angegeben|
+| A.1  |Website geöffnet,angemeldet als Spieler, Spiel gestartet| 1.Spielseite anschauen |Auf der Spielseite wird der erste Tipp angegeben|
+| B.1  |Website geöffnet,angemeldet als Spieler, Spiel gestartet, mehreremale schon versucht das Wort zu erraten| 1.Spielseite anschauen |Auf der Spielseite wird der zweite Tipp angegeben
+| C.1  |Website geöffnet,angemeldet als Spieler, Spiel gestartet, 10 Mal versucht das Wort zu erraten| 1.Spielseite anschauen 2. Knopf "Lösung anzeigen drücken |Auf der Spielseite wird die Lösung gezeigt
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -113,8 +117,24 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  |   07.03.2023    |          |        |
+| 2.1  |       07.03.2023  |          |        |
+| 3.1  |       07.03.2023  |          |        |
+| 4.1  |        07.03.2023 |          |        |
+| 5.1  |       07.03.2023  |          |        |
+| 6.1  |        07.03.2023 |          |        |
+| 7.1  |        07.03.2023 |          |        |
+| 8.1  |        07.03.2023 |          |        |
+| 9.1  |        07.03.2023 |          |        |
+| 10.1  |        07.03.2023 |          |        |
+| 11.1  |        07.03.2023 |          |        |
+| 12.1  |        07.03.2023 |          |        |
+| 13.1  |         07.03.2023|          |        |
+| 14.1  |        07.03.2023 |          |        |
+| 15.1  |         07.03.2023|          |        |
+| A.1  |         07.03.2023|          |        |
+| B.1  |        07.03.2023 |          |        |
+| C.1  |        07.03.2023 |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
