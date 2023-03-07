@@ -1,0 +1,114 @@
+div h4, div h4 {
+  color: black;
+  font-size: 30px;
+  font-family: "impact", cursive;
+  font-weight: bold; }
+
+body {
+  text-align: center;
+  background-size: cover;
+  background-color: azure; }
+
+h2 {
+  font-size: 75px;
+  color: black;
+  font-family: "Impact", cursive; }
+
+#category {
+  font-family: "Luckiest Guy", cursive;
+  color: red;
+  font-size: 30px; }
+
+#category-name {
+  font-family: "Luckiest Guy", cursive;
+  color: blue;
+  font-size: 30px; }
+
+h3 {
+  font-size: 20px;
+  color: orange;
+  font-family: sans-serif;
+  font-weight: bold; }
+
+  #input-button {
+    border-radius: 10px;
+    Background-Color: #0084ff;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size:large;
+    border: none;
+  }
+
+  #solve-button {
+    border-radius: 10px;
+    Background-Color: #0084ff;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size:large;
+    border: none;
+  }
+
+  #show-answer {
+    border-radius: 10px;
+    Background-Color: #0084ff;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size:large;
+    border: none;
+  }
+
+  #new-game-button {
+    border-radius: 10px;
+    Background-Color: #0084ff;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size:large;
+    border: none;
+  }
+
+  #play-button {
+    border-radius: 10px;
+    Background-Color: #0084ff;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size:large;
+    border: none;
+  }
+  #login{
+    border-radius: 10px;
+    Background-Color: #0084ff;
+    color: white;
+    height: 50px;
+    width: 150px;
+    font-size:large;
+    border: none;
+  }
+
+#hint-location {
+  font-size: 30px;
+  color: blue;
+  font-family: "Luckiest Guy", cursive; }
+
+#game-tag {
+  font-family: 'Bungee', cursive;
+  font-size: 70px;
+  color: green;
+  font-weight: bolder; }
+
+#wrong {
+  font-size: 22px;
+  color: red;
+  font-family: "Luckiest Guy", cursive; 
+}
+
+#letter-input, #solve-input {
+  color: black; 
+  font-size:large;
+  font-family: "impact", cursive;
+}
+
