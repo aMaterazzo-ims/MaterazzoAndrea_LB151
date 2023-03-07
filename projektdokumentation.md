@@ -8,9 +8,9 @@
 | 26.01.2023      | 0.0.2   |   Mock-Up fertiggestellt, Tracer Bullet erstellt                                                           |
 |  05.02.2023     | 0.0.3   |  Prototypen erstellt, Technologien installiert                                                           |
 |23.02.2023   | 0.0.4   |      Ich habe hauptsächlich programmiert Heute.                                                        |
-| 07.03.2023     | 0.0.5   |   Programm fertig gemacht undDokumentation fertiggestellt.                                                           |
-|       | 0.0.6   |                                                              |
-|       | 1.0.0   |                                                              |
+| 07.03.2023     | 1.0.0 |   Programm fertig gemacht undDokumentation fertiggestellt.                                                           |
+|       |         |                                                          |
+|            |         |                                                              |
 
 # 0 Ihr Projekt
 
@@ -44,25 +44,25 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                         |
 | ---| --------------- | ---- | ----------------------------------     |
-| 1  | Muss      |Funktional     |Als Administrator möchte ich in der Lage sein, mich mit einem Admin Login anzumelden, damit nur Daten bearbeiten könnte wenn ich wollen würde.
-| 2  |    Muss      |Funtional      |Als Administrator möchte ich in der Lage sein, Wörter und Sätze zu erstellen und zu bearbeiten, damit das Spiel spannend bleibt und so denn Spieler freude bereitet.
-| 3  |    Muss      |Funktional|Als Administrator möchte ich in der Lage sein, Kategorien anzulegen und jedes Wort bzw. jede Frage einer Kategorie zuordnen zu können, damit der Spieler eine Kategorie auwählen kann und so die von ihm gewünschten Wörter der Kategorie angezeigt gespielt werden können                                    
-| 4  |    Muss      |Funktional|Als Administrator möchte ich in der Lage sein, Highscore-Listen-Einträge zu berarbeiten, damit ich Einträge die ich als missbräuclich sehe, entfernen kann                                    |                               |
-| 6  |    Muss      |Funktional|Als Kandidat*in* möchte ich in der Lage sein, meinen Namen anzugeben, damit, falls ich einen Highscore erreiche, dort mein Name steht                                        |
-| 7  |    Muss      |Funktional|Als Kandidat*in* möchte ich in der Lage sein, mein Kontostand zu jeder Zeit sehen zu können, damit ich weiss wie viel Guthaben ich auf meine Spielkonto besitze.                                    |
-| 8  |    Muss      |Funktional |Als Kandidat*in* möchte ich in der Lage sein, meine Lebenspunkte zu jeder Zeit sehen zu können, damit ich weiss wie viel Leben ich noch habe.                                    |
-| 9  |    Muss      |Funktional      |Als Kandidat*in* möchte ich wissen, ob meine gewählte Antwort oder richtig oder falsch war, damit ich aus meinen Fehlern lernen kann und die nächste Antwort sorgfältiger beantworten kann.                                    |
-| 10 |    Muss      |Qualität     |Als Kandidat*in* möchte ich in der Lage sein, in der Highscore-Liste folgende Daten zu sehen : Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und anzahl Spielrunden, damit ich mich mit anderen vergleichen kann und wie viel bis zum nächsten Rang fehlt.                                    |
-| 11 |    Muss      |Qualität     |Als Kandidat*in* möchte, dass die Highscore-Liste von Bester nach schlechtester sortiert ist, damit ich auf einen Blick sehe, welcher Spieler der beste ist ohne gross danach suchen zu müssen                                    |
-| 12 |    Muss      |Qualität|Als Kandidat*in* möchte ich das jedes Wort und jeder Satz mir nur genau ein Mal gestellt wird, damit das Spiel nicht langweilig wird                                    |
-| 13 |    Muss      |Funktional|Als Kandidat*in* möchte ich in der Lage sein, das Spiel zu jedem Zeitpunkt zu unterbrechen und will das mein Gewinn übernommen wird und ich falls nötig in die Highscore-Liste eingetragen werde.                                    |
-| 14 |    Muss      |Qualität     |Als Kandidat*in* möchte ich, dass das Spiel mit genug Wörtern und Sätzen gespielt gefüllt wird, damit das Spiel nicht durchgespielt werden kann und so nicht langweilig wird.                                    |
-| 15 |    Muss      |Funktional      |Als Kandidat*in* möchte ich, dass meine Spielrunden gezählt werden, damit ich weiss wie viele Runden ich schon gespielt habe und weiss wann die Zeit gekommen ist das Spiel zu schliessen und wieder zur Realität zurückzukehren.                                    |
-| 16 |    Muss      |Rand      |Als ein Kandidat*in* möchte ich, dass einfache Formulareingaben, wie leere Textfelder etc., auf Client- und Serverseite geprüft werden, damit ich früh auf Fehler hingewiesen werde.  
+| 1  | Muss      |Funktional     |Als Administrator möchte ich in der Lage sein, mich mit einem Admin Login anzumelden, damit nur Daten bearbeiten könnte wenn ich wollen würde.|
+| 2  |    Muss      |Funtional      |Als Administrator möchte ich in der Lage sein, Wörter und Sätze zu erstellen und zu bearbeiten, damit das Spiel spannend bleibt und so denn Spieler freude bereitet.|
+| 3  |    Muss      |Funktional|Als Administrator möchte ich in der Lage sein, Kategorien anzulegen und jedes Wort bzw. jede Frage einer Kategorie zuordnen zu können, damit der Spieler eine Kategorie auwählen kann und so die von ihm gewünschten Wörter der Kategorie angezeigt gespielt werden können                                    |
+| 4  |    Muss      |Funktional|Als Administrator möchte ich in der Lage sein, Highscore-Listen-Einträge zu berarbeiten, damit ich Einträge die ich als missbräuclich sehe, entfernen kann                                    |
+| 5 |    Muss      |Funktional|Als Kandidat*in* möchte ich in der Lage sein, meinen Namen anzugeben, damit, falls ich einen Highscore erreiche, dort mein Name steht                                        |
+| 6                                                            | Muss            | Funktional | Als Kandidat*in* möchte ich in der Lage sein das Spiel neuzustarten, sollte ich gewonnen oder verloren haben, damit ich die Möglichkeit habe eine weitere Runde zu spielen. |
+| 7 |    Muss      |Funktional |Als Kandidat*in* möchte ich in der Lage sein, Buchstaben eingeben zu können, damit ich das Wort erraten kann.                                    |
+| 8 |    Muss      |Funktional      |Als Kandidat*in* möchte ich wissen, ob meine gewählte Antwort oder richtig oder falsch war, damit ich aus meinen Fehlern lernen kann und die nächste Antwort sorgfältiger beantworten kann.                                    |
+| 9 |    Muss      |Qualität     |Als Kandidat*in* möchte ich in der Lage sein, in der Highscore-Liste folgende Daten zu sehen : Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und anzahl Spielrunden, damit ich mich mit anderen vergleichen kann und wie viel bis zum nächsten Rang fehlt.                                    |
+| 10 |    Muss      |Qualität     |Als Kandidat*in* möchte, dass ich das gesamte Wort eingeben kann, damit wenn ich denke das Wort zu wissen, das ganze Wort eingeben kann                                    |
+| 11 |    Muss      |Qualität|Als Kandidat*in* möchte ich das jedes Wort und jeder Satz mir nur genau ein Mal gestellt wird, damit das Spiel nicht langweilig wird                                    |
+| 12 |    Muss      |Funktional|Als Kandidat*in* möchte ich in der Lage sein, das Spiel zu jedem Zeitpunkt zu unterbrechen und will das mein Gewinn übernommen wird und ich falls nötig in die Highscore-Liste eingetragen werde.                                    |
+| 13                                                           | Muss            | Funktional | Als Kandidat*in* möchte ich, dass das Spiel eine kurze Anleitung hat, damit ich weiss wie das Spiel funktioniert |
+| 14 |    Muss      |Funktional      |Als Kandidat*in* möchte ich, dass meine Spielrunden gezählt werden, damit ich weiss wie viele Runden ich schon gespielt habe und weiss wann die Zeit gekommen ist das Spiel zu schliessen und wieder zur Realität zurückzukehren.                                    |
+| 15                                                           | Muss            | Qualität   | Als  Kandidat*in* möchte ich, dass in irgendeiner Form angezeigt wird, wie viele Stellen ein Wort hat, damit es mir leichter fällt das Wort zu erraten. |
 | A |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, den ersten Hinweis erhalten, damit ich Hilfe erhalte um das Wort zu erraten.  |
- |B |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, den zweiten Hinweis erhalten, damit ich das Wort doch noch erraten kann.  |
-  |C |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, dass ich die Lösung anzeigen kann, damit ich weiss was das Wort war, sollte ich es nicht erraten haben.  |
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
+|B |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, den zweiten Hinweis erhalten, damit ich das Wort doch noch erraten kann.  |
+|C |    Muss      |Funktional      |Als ein Kandidat*in* möchte ich, dass ich die Lösung anzeigen kann, damit ich weiss was das Wort war, sollte ich es nicht erraten haben.  |
+|✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). ||||
 
 # 4.2 Testfälle
 
@@ -73,20 +73,20 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 | 3.1  |Website geöffnet, als Admin angemeldet|1. Auf "Wörter bearbeiten" drücken|Wörterliste erscheint und den Wörtern und Sätzen können Kategorien zugetielt werden                   |
 | 3.2  |Website geöffnet, als Admin angemeldet|1. Auf "Kategorien erstellen" drücken|Kategorie kan erstellt werden und entweder neue Wörter oder bereits vorhandene Wörter können der Kategorie hinzugfügt werden|
 | 4.1  |Website geöffnet, als Admin angemeldet|1. Highscore-Liste öffnen 2. Auf " Highscore-Liste bearbeiten" drücken| Einträge können bearbeitet oder gelöscht werden|
-| 5.1  |Website geöffnet, auf iPhone angemeldet|1. Auf iPhone abmelden 2. Auf iPad anmelden|Der Spieler kann von einem anderen Gerät genau gleich weiterspielen|
-| 6.1  |Website geöffnet, angemeldet als Spieler| 1. Highscore in einem Spiel aufstellen|Da bei der Registrierung nach dem Namen gefragt wurde, steht ihr Name mit der Punktzhal und noch anderen Dtane in der Highscore-Liste|
-| 7.1  |Website geöffnet, angemeldet als Spieler|1. Website oben rechts anschauen | Aktueller Kontostand ist oben  sichtbar                 |
-| 8.1  |Website geöffnet,  angemeldet als Spieler|1. Website oben links anschauen|Aktuelle Leben sind oben sichtbar                   |
-| 9.1  |Website geöffnet, angemeldet als Spieler|1. Spiel starten 2. Spiel spielen und raten|Dem Spieler wird mitgeteilt, ob das geratene Wort oder der Buchstabe falsch oder richtig sind.|
-| 10.1  | Website geöffnet, anegemeldet als Spieler oder Admin|1. Highscore-Liste öffnen|Highscore-Liste mit folgenden Daten wird angezeigt: Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und anzahl Spielrunden                   |
-| 11.1  |Website geöffnet, anegemeldet als Spieler oder Admin|1. Highscore-Liste öffnen| Highscore-Liste ist vom bestem nach dem schlechtestem Spieler sortiert|
-| 12.1  |Website geöffnet, angemeldet als Spieler|1. Viele Runden werden gespielt| Kein Wort kam zwei Mal dran|
-| 13.1  |Website geöffnet, angemeldet als Spieler, Spiel läuft|1. Spieler drückt auf Spiel beenden|Guthaben wird gespeichet und falls nötig ein eintrga in die Highscore-Liste eingetragen|
-| 14.1  |Website geöffnet, angemeldet als Spieler|1. Viele Runden werden gespielt| Kein Wort kam zwei Mal dran und es das Spiel wurde nicht durchgespielt, weil es nicht durchgespielt werden kann| 
-| 15.1  |Website geöffnet,angemeldet als Spieler, mehrere Runden schon gespielt| 1.Spielseite anschauen |Auf der Spielseite werden die anazhal Runden angegeben|
+| 5.1  |Website geöffnet|1.Spiel starten|Feld erscheint, wo der Name eingegeben werden kann|
+| 6.1  |Website geöffnet| 1. Spiel starten  2. Auf Neustarten drücken. |Spiel wird neugestartet|
+| 7.1  |Website geöffnet, Spiel gestartet|1. Anzahl Striche und Hinweise anschauen. 2. "b" raten | Es wird "b" geraten und ein Strich wird durch ein b ersetzt. |
+| 8.1  |Website geöffnet, Spiel gestartet|1. Anzahl Striche und Hinweise anschauen. 2. "ö" raten|Es wird ausgegeben das "ö" nicht in diesem Wort enthalten ist.                   |
+| 9.1  |Website geöffnet, Highscore-Liste geöffnet| 1. Highscore-Liste anschauen                                 | Highscore-Liste mit folgenden Daten wird angezeigt: Rang, Name des Spielers, Zeitpunkt des Spiels, Geldbetrag und anzahl Spielrunden |
+| 10.1  | Website geöffnet, Spiel gestartet                            | 1. Anzahl Striche und Hinweise anschauen. 2. "Bugatti" raten | Es wird ausgegeben ob Bugatti richtig oder falsch ist.       |
+| 11.1  | Website geöffnet                                             | 1. Viele Runden werden gespielt / Code anschauen             | Kein Wort kam zwei Mal dran / Kein Wort ist doppelt eingetragen |
+| 12.1  | Website geöffnet, Spiel läuft                                | 1. Spieler drückt auf Spiel beenden                          | Guthaben wird gespeichet und falls nötig, wird ein Eintrag in die Highscore-Liste getätigt |
+| 13.1  |Website geöffnet|1. Website anschauen|Es wird in einem Satz erklärt wie das Spiel gespielt wird.|
+| 14.1  | Website geöffnet, mehrere Runden schon gespielt              | 1.Spielseite anschauen                                       | Auf der Spielseite werden die Anzahl Runden angegeben        |
+| 15.1  |Website geöffnet| 1.Spielseite starten |Die Striche representieren die Anzahl zu erratenden Buchstaben|
 | A.1  |Website geöffnet,angemeldet als Spieler, Spiel gestartet| 1.Spielseite anschauen |Auf der Spielseite wird der erste Tipp angegeben|
-| B.1  |Website geöffnet,angemeldet als Spieler, Spiel gestartet, mehreremale schon versucht das Wort zu erraten| 1.Spielseite anschauen |Auf der Spielseite wird der zweite Tipp angegeben
-| C.1  |Website geöffnet,angemeldet als Spieler, Spiel gestartet, 10 Mal versucht das Wort zu erraten| 1.Spielseite anschauen 2. Knopf "Lösung anzeigen drücken |Auf der Spielseite wird die Lösung gezeigt
+| B.1  |Website geöffnet,angemeldet als Spieler, Spiel gestartet, mehreremale schon versucht das Wort zu erraten| 1.Spielseite anschauen |Auf der Spielseite wird der zweite Tipp angegeben|
+| C.1  |Website geöffnet,angemeldet als Spieler, Spiel gestartet, 10 Mal versucht das Wort zu erraten| 1.Spielseite anschauen 2. Knopf "Lösung anzeigen drücken |Auf der Spielseite wird die Lösung gezeigt|
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -99,16 +99,49 @@ Daten sollen in meiner FireBase Datenbank gespeichert werden. Ich habe mehrheitl
 
 ✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
 
-| User Story | Datum | Beschreibung |
-| ---------- | ----- | ------------ |
-| ...        |       |              |
+| User Story | Datum        | Beschreibung                                                 |
+| ---------- | ------------ | ------------------------------------------------------------ |
+| 1          | 27.02.2023   | Log-In erstellt, Authentifizierung via FireBase              |
+| 2          | (27.02.2023) | Hat nicht funktioniert und wurde deshalb aus der Endversion gestrichen |
+| 3          | (27.02.2023) | Hat nicht funktioniert und wurde deshalb aus der Endversion gestrichen |
+| 4          | (27.02.2023) | Hat nicht funktioniert und wurde deshalb aus der Endversion gestrichen |
+| 5          | (27.02.2023) | Hat nicht funktioniert und wurde deshalb aus der Endversion gestrichen |
+| 6          | 27.03.2023   | Es existiert nun ein Knopf um das Spiel neuzustarten         |
+| 7          | 27.03.2023   | User Inputs sind möglich und werden kontrolliert(z.B. Max. ein Buchstabe) |
+| 8          | 27.03.2023   | Uberprüfung der Eingabe des Users nach der Richtigkeit       |
+| 9          | (27.02.2023) | Hat nicht funktioniert und wurde deshalb aus der Endversion gestrichen |
+| 10         | 27.02.2023   | Wörter implementiert                                         |
+| 11         | 20.02.2023   | Wörter ausgewählt                                            |
+| 12         | -            | Nicht erledigt                                               |
+| 13         | 07.03.2023   | Kurzer Text geschrieben als Beschreibung                     |
+| 14         | -            | Nicht erledigt                                               |
+| 15         | 07.03.2023   | Bild gesucht, Hintergrund entfernt, 1 Bild pro Buchstabe implementiert |
+| A          | 07.03.2023   | Hinweise zu den einzelnen Wörter geschrieben                 |
+| B          | 07.03.2023   | 2. Hinweise zu den einzelnen Wörter geschrieben              |
+| C          | 07.03.2023   | Option Lösung anzeigen                                       |
 
 # 7 Projektdokumentation
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja / nein |                                           |
-| ...  |           |                                           |
+| 1    | Ja        |                                           |
+| 2    | Nein      |                                           |
+| 3    | Nein      |                                           |
+| 4    | Nein      |                                           |
+| 5    | Nein      |                                           |
+| 6    | Ja        |                                           |
+| 7    | Ja        |                                           |
+| 8    | Ja        |                                           |
+| 9    | Nein      |                                           |
+| 10   | Ja        |                                           |
+| 11   | Ja        |                                           |
+| 12   | Nein      |                                           |
+| 13   | Ja        |                                           |
+| 14   | Nein      |                                           |
+| 15   | Ja        |                                           |
+| A    | Ja        |                                           |
+| B    | Ja        |                                           |
+| C    | Ja        |                                           |
 
 # 8 Testprotokoll
 https://youtu.be/FDaIQOakGUI
@@ -116,24 +149,24 @@ https://youtu.be/FDaIQOakGUI
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |   07.03.2023    |          |    Andrea Materazzo    |
-| 2.1  |       07.03.2023  |          |  Andrea Materazzo        |
-| 3.1  |       07.03.2023  |          |   Andrea Materazzo       |
-| 4.1  |        07.03.2023 |          |   Andrea Materazzo       |
-| 5.1  |       07.03.2023  |          |   Andrea Materazzo       |
-| 6.1  |        07.03.2023 |          |   Andrea Materazzo       |
-| 7.1  |        07.03.2023 |          |   Andrea Materazzo       |
-| 8.1  |        07.03.2023 |          |   Andrea Materazzo       |
-| 9.1  |        07.03.2023 |          |   Andrea Materazzo       |
-| 10.1  |        07.03.2023 |          |    Andrea Materazzo      |
-| 11.1  |        07.03.2023 |          |    Andrea Materazzo      |
-| 12.1  |        07.03.2023 |          |    Andrea Materazzo      |
-| 13.1  |         07.03.2023|          |    Andrea Materazzo      |
-| 14.1  |        07.03.2023 |          |    Andrea Materazzo      |
-| 15.1  |         07.03.2023|          |     Andrea Materazzo     |
-| A.1  |         07.03.2023|          |     Andrea Materazzo     |
-| B.1  |        07.03.2023 |          |     Andrea Materazzo     |
-| C.1  |        07.03.2023 |          |    Andrea Materazzo      |
+| 1.1  |   07.03.2023    | OK |    Andrea Materazzo    |
+| 2.1  |       07.03.2023  | NOK |  Andrea Materazzo        |
+| 3.1  |       07.03.2023  | NOK |   Andrea Materazzo       |
+| 4.1  |        07.03.2023 | NOK |   Andrea Materazzo       |
+| 5.1  |       07.03.2023  | NOK |   Andrea Materazzo       |
+| 6.1  |        07.03.2023 | OK |   Andrea Materazzo       |
+| 7.1  |        07.03.2023 | OK |   Andrea Materazzo       |
+| 8.1  |        07.03.2023 | OK |   Andrea Materazzo       |
+| 9.1  |        07.03.2023 | NOK |   Andrea Materazzo       |
+| 10.1  |        07.03.2023 | OK |    Andrea Materazzo      |
+| 11.1  |        07.03.2023 | OK |    Andrea Materazzo      |
+| 12.1  |        07.03.2023 | NOK |    Andrea Materazzo      |
+| 13.1  |         07.03.2023| OK |    Andrea Materazzo      |
+| 14.1  |        07.03.2023 | NOK |    Andrea Materazzo      |
+| 15.1  |         07.03.2023| OK |     Andrea Materazzo     |
+| A.1  |         07.03.2023| OK |     Andrea Materazzo     |
+| B.1  |        07.03.2023 | OK |     Andrea Materazzo     |
+| C.1  |        07.03.2023 | OK |    Andrea Materazzo      |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
